@@ -1,2 +1,0 @@
-# blogger
-The Real Blogger!
